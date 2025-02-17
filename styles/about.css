@@ -53,7 +53,7 @@ body {
 }
 
 .about-blog-text {
-  text-align: justify;
+  text-align: start;
 
   font-size: 50px;
 
@@ -91,7 +91,7 @@ body {
 }
 
 .about-me-text {
-  text-align: justify;
+  text-align: start;
 
   font-size: 50px;
 
