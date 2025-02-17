@@ -41,7 +41,7 @@ body {
 }
 
 .blog-post-text {
-  text-align: justify;
+  text-align: start;
 
   width: 800px;
 
