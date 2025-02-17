@@ -69,19 +69,6 @@ body {
   text-decoration: underline;
 }
 
-.preview-title::before {
-  content: "";
-  position: absolute;
-  left: 7%;
-  bottom: 7px;
-  margin-left: 177px;
-  width: calc(100% + 10px);
-  height: 15px;
-  transform: skew(-12deg) translateX(-50%);
-  background: #F4A0D9;
-  z-index: -1;
-}
-
 .preview-text {
   font-size: 40px;
   margin-left: 20px;
