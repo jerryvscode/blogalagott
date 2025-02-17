@@ -45,7 +45,7 @@ body {
 
   border-style: solid;
 
-  width: 800px;
+  width: 850px;
 }
 
 .kontakt-title {
@@ -53,6 +53,6 @@ body {
 }
 
 .kontakt-email {
-  font-size: 60px;
+  font-size: 45px;
   padding-bottom: 30px;
 }
