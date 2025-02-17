@@ -1,0 +1,14 @@
+.datenschutz-balken {
+  background-color: black;
+  margin-top: 100%;
+  height: 50px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.datenschutz-link {
+  color: white;
+  font-size: 30px;
+}
