@@ -18,7 +18,7 @@ body {
   width: 155px;
   height: 30px;
   transform: skew(-12deg) translateX(-50%);
-  background: #ce7fff;
+  background: #fea7b7;
   z-index: -1;
 }
 
@@ -48,7 +48,7 @@ body {
   width: 430px;
   height: 30px;
   transform: skew(-12deg) translateX(-50%);
-  background: #ff64de;
+  background: #fea7b7;
   z-index: -1;
 }
 
@@ -86,7 +86,7 @@ body {
   width: 300px;
   height: 30px;
   transform: skew(-12deg) translateX(-50%);
-  background: #ff64de;
+  background: #fea7b7;
   z-index: -1;
 }
 
