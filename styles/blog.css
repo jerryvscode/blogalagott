@@ -35,9 +35,10 @@ body {
 }
 
 .blog-preview {
-  background-color: #fea8b7;
   width: 700px;
   height: 450px;
+
+  margin-bottom: 65px;
 
   text-align: justify;
 
@@ -45,6 +46,22 @@ body {
 
   position: relative;
   z-index: 0;
+}
+
+.blog-preview1 {
+ background-color: #fea8b7;
+}
+
+.blog-preview2 {
+ background-color: #fea8b7;
+}
+
+.blog-preview3 {
+ background-color: #fea8b7;
+}
+
+.blog-preview4 {
+ background-color: #fea8b7;
 }
 
 .preview-title {
